@@ -13,6 +13,8 @@ images:
 - projekte/digitaler_voyeurismus/DSC01341.JPG
 - projekte/digitaler_voyeurismus/IMG_3231.JPG
 
+video: http://player.vimeo.com/video/101627787
+
 date: 2011
 location: Festspielhaus Hellerau
 
