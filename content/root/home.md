@@ -9,20 +9,17 @@ images:
 - home/banner_2.gif
 - home/banner_3.gif
 
-videos:
-- /img/home/bg_ani.mp4
-
 featured:
-- root/projekte/digitaler_voyeurismus
-- root/projekte/heat
-- root/projekte/binaerers_im_buschwerk
-- root/projekte/alice_im_wunderland
+- root/projekte/2011_digitaler_voyeurismus
+- root/projekte/2013_heat
+- root/projekte/2011_binaerers_im_buschwerk
+- root/projekte/2013_alice_im_wunderland
 - root/mitglieder/brian_eschrich
 - root/mitglieder/deborah_schmidt
-- root/news/irgendeine_neuigkeit
+- root/news/2015_02_01_irgendeine_neuigkeit
 - root/mitglieder/brian_eschrich
 - root/mitglieder/deborah_schmidt
-- root/news/irgendeine_neuigkeit
+- root/news/2015_02_01_irgendeine_neuigkeit
 - root/mitglieder/deborah_schmidt
 ---
 
