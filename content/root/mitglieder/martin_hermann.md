@@ -2,7 +2,8 @@
 title: Martin Hermann
 teaser: ...
 images:
-- mitglieder/martin_h.jpg
+- mitglieder/martin_herrmann/martin_h.jpg
+- mitglieder/brian_eschrich/banner.jpg
 
 lastname: Hermann
 firstname: Martin

@@ -2,7 +2,8 @@
 title: Hannes Leitner
 teaser: ...
 images:
-- mitglieder/michael_t.jpg
+- mitglieder/brian_eschrich/michael_t.jpg
+- mitglieder/brian_eschrich/banner.jpg
 
 lastname: Leitner
 firstname: Hannes
