@@ -2,7 +2,10 @@
 
 Die Ordnerstruktur ist folgendermaßen aufgebaut:
 
-- content
-..- root
-....- mitglieder [mitglieder seiten]
-....- news [news ]
+```
+| content
+	|- root
+		|- mitglieder [mitglieder seiten]
+		|- news [news ]
+
+```
