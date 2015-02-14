@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ```
 
 ###Projektseiten, Workshopseiten 
-´´´
+```
 ---
 title: Heat [Name des Projekts]
 teaser: [Der Vorschautext]
